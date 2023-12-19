@@ -1,1 +1,2 @@
-*.class
+/DIP/*.class
+/ISP/*.class
